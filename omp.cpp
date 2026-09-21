@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(void){
-  #pragma omp parallel{
+  #pragma omp parallel num threads(16){
     cout << "Hello World!\n";
   }
 
