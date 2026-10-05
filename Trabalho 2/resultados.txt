@@ -1,0 +1,8 @@
+# K-Means - resultados dos testes paralelos
+Nucleos	Tempo de Execucao (s)
+1	1.484667
+2	0.921667
+4	0.506333
+6	0.344667
+8	0.270000
+16	0.196000
